@@ -1,4 +1,4 @@
-export async function getStaticPaths() {
+/*export async function getStaticPaths() {
   const res = await fetch("https://.../posts");
   const posts = await res.json();
 
@@ -24,3 +24,4 @@ export async function getStaticProps({ params }) {
 }
 
 export default Post;
+*/
